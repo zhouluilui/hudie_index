@@ -1,0 +1,22 @@
+{
+  "name": "hudie_index",
+  "version": "1.0.0",
+  "description": "hudie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouluilui/hudie_index.git"
+  },
+  "author": "zhouluilui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouluilui/hudie_index/issues"
+  },
+  "homepage": "https://github.com/zhouluilui/hudie_index#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
